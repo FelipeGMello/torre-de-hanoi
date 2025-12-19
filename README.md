@@ -5,4 +5,4 @@ Mover todos os discos para a torre da direita.
 ## Regras
 Um disco de diâmetro maior não pode estar sobre um de diâmetro menor. Só é possível mover um disco por vez.
 ## Observações
-O mesmo programa foi feito em C e Java, sendo o em C feito com a lógica de pilhas e o em Java feito com uma lógica de arrays e posições.
+O mesmo programa foi feito em C e Java, sendo o em C feito com a lógica de pilhas e o em Java feito com uma lógica de arrays e posições, que imita pilhas.
